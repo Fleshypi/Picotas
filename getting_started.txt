@@ -1,0 +1,1 @@
+to get started, you will have to download the latest micropython firmware, this software was designed with rp2040 boards such as the raspberry pi pico. to run the software, flash any files with the extention .py or .config to the board.
